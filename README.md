@@ -1,1 +1,1 @@
-This is a repositoryt which contains my basic  Machine Learning Project
+This is a repository which contains my basic  Machine Learning Project
